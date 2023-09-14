@@ -74,4 +74,4 @@ public class sort_question {
         func_str(str);
         print_str(str);
     }
-}
+}  
